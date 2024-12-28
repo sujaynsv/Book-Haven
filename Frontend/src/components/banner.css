@@ -1,0 +1,8 @@
+.banner-container {
+    background-image: url("../images/back.jpg"); /* Replace "path_to_your_background_image.jpg" with the actual path to your background image */
+    background-size: contain;
+    background-position: center;
+    background-repeat: repeat;
+    filter: brightness(0.75); /* Adjust the brightness to darken the image */
+  }
+  
